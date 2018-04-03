@@ -4,6 +4,7 @@
 
 ## tools evaluation listings :
 https://www.g2crowd.com/
+http://analytics.fr/
 
 ## SCRAPPING
 WebScraper.io
@@ -30,7 +31,9 @@ https://www.optimizely.com/
 https://vwo.com/services/
 https://statsbot.co/
 https://mixpanel.com/
-
+https://www.webtrends.com/
+Universal analytics https://developers.google.com/analytics/devguides/collection/upgrade/
+Adobe analytics https://www.adobe.com/fr/data-analytics-cloud/analytics.html
 
 ## Performances optimization 
 https://gtmetrix.com/
@@ -52,15 +55,16 @@ https://answerthepublic.com/
 
 ## tagging
 https://www.commandersact.com/
-https://www.google.com/intl/fr_fr/tagmanager/
+GTM https://www.google.com/intl/fr_fr/tagmanager/
 https://pixelme.me/
-
+https://www.commandersact.com/fr/
+DTM https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html
+http://tealium.com/fr/
 
 ## landing pages
 https://www.hubspot.com/
 https://www.tailorbrands.com/ ( design oriented )
 https://www.clickfunnels.com/
-
 
 
 ## conversation marketing

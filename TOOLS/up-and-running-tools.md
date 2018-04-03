@@ -45,15 +45,14 @@ https://vwo.com/services/
 https://abtestguide.com/calc/
 http://www.evanmiller.org/ab-testing/sample-size.html
 
-##heatmap
+##Heatmap
 https://www.hotjar.com/
 
-##SEO
 
-### content discovery tool
+### Content discovery tool
 https://answerthepublic.com/
 
-## tagging
+## Tagging
 https://www.commandersact.com/
 GTM https://www.google.com/intl/fr_fr/tagmanager/
 https://pixelme.me/
@@ -61,16 +60,16 @@ https://www.commandersact.com/fr/
 DTM https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html
 http://tealium.com/fr/
 
-## landing pages
+## Landing pages
 https://www.hubspot.com/
 https://www.tailorbrands.com/ ( design oriented )
 https://www.clickfunnels.com/
 
 
-## conversation marketing
+## Conversation marketing
 https://botlist.co/ ( bot tools listing site)
 
-## list management
+## List management
 https://www.dropcontact.io/ ( + lead discovery on social media )
 
 

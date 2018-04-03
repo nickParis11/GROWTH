@@ -48,7 +48,6 @@ http://www.evanmiller.org/ab-testing/sample-size.html
 ##Heatmap
 https://www.hotjar.com/
 
-
 ### Content discovery tool
 https://answerthepublic.com/
 
@@ -62,7 +61,7 @@ http://tealium.com/fr/
 
 ## Landing pages
 https://www.hubspot.com/
-https://www.tailorbrands.com/ ( design oriented )
+https://www.tailorbrands.com/( design oriented )
 https://www.clickfunnels.com/
 
 

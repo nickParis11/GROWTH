@@ -83,15 +83,10 @@
 
 # NEXT TO REFERENCE
 
-TITLE | LINK
-------| ----
+TOOL | LINK
+-----| ----
 Firebase Analytics | https://firebase.google.com/docs/analytics/
 
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 
 

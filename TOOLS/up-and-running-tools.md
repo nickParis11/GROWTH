@@ -1,5 +1,4 @@
 
-
 # GROWTH TOOLS
 
 ## tools evaluation listings :
@@ -9,6 +8,24 @@
 ## SCRAPPING
 * WebScraper.io
 * https://www.katalon.com/resources-center/blog/katalon-automation-recorder/
+
+## Performances optimization
+
+### Tech
+
+#### DNS Performances Audit
+* https://github.com/nickParis11/dnsperftest
+
+#### website optimization 
+* https://gtmetrix.com/
+* https://vwo.com/services/
+
+### Marketing
+
+#### Marketing message optimization ( AB test , multivariate , etc...)
+* https://vwo.com/services/
+* https://www.optimizely.com/
+
 
 ## SALES 
 * Vms-online.fr
@@ -23,9 +40,7 @@
 * http://www.rightrelevance.com/ ( influencer discovery)
 * https://www.botletter.com/ ( reengage through messages)
 
-## Marketing message optimization ( AB test , multivariate , etc...)
-* https://vwo.com/services/
-* https://www.optimizely.com/
+
 
 ## Analytics
 * https://vwo.com/services/
@@ -35,9 +50,6 @@
 * Universal analytics https://developers.google.com/analytics/devguides/collection/upgrade/
 * Adobe analytics https://www.adobe.com/fr/data-analytics-cloud/analytics.html
 
-## Performances optimization 
-* https://gtmetrix.com/
-* https://vwo.com/services/
 
 ## Statistics
 
@@ -45,7 +57,7 @@
 * https://abtestguide.com/calc/
 * http://www.evanmiller.org/ab-testing/sample-size.html
 
-##Heatmap
+## Heatmap
 * https://www.hotjar.com/
 
 ### Content discovery tool
@@ -70,6 +82,15 @@
 
 ## List management
 * https://www.dropcontact.io/ ( + lead discovery on social media )
+
+# NEXT TO REFERENCE
+
+	   TITLE 							| 		LINK
+
+----------------- 			| -------------
+
+Firebase Analytics 			| https://firebase.google.com/docs/analytics/
+
 
 
 

@@ -83,11 +83,9 @@
 
 # NEXT TO REFERENCE
 
-	   TITLE 							| 		LINK
-
------------------ 			| -------------
-
-Firebase Analytics 			| https://firebase.google.com/docs/analytics/
+TITLE | LINK
+------| ----
+Firebase Analytics | https://firebase.google.com/docs/analytics/
 
 
 First Header | Second Header

@@ -40,8 +40,6 @@
 * http://www.rightrelevance.com/ ( influencer discovery)
 * https://www.botletter.com/ ( reengage through messages)
 
-
-
 ## Analytics
 * https://vwo.com/services/
 * https://statsbot.co/
@@ -90,6 +88,12 @@
 ----------------- 			| -------------
 
 Firebase Analytics 			| https://firebase.google.com/docs/analytics/
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 

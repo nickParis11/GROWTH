@@ -1,7 +1,7 @@
 
 # GROWTH TOOLS
 
-## tools evaluation listings :
+## Tools evaluation listings :
 * https://www.g2crowd.com/
 * http://analytics.fr/
 
@@ -16,7 +16,7 @@
 #### DNS Performances Audit
 * https://github.com/nickParis11/dnsperftest
 
-#### website optimization 
+#### Website optimization 
 * https://gtmetrix.com/
 * https://vwo.com/services/
 
@@ -81,17 +81,25 @@
 ## List management
 * https://www.dropcontact.io/ ( + lead discovery on social media )
 
-# NEXT TO REFERENCE
+# TO BE LISTED SOON
 
 TOOL | LINK
 -----| ----
 Firebase Analytics | https://firebase.google.com/docs/analytics/
+SysBench ( mysql and infrastructure performances auditing tool) | https://github.com/akopytov/sysbench
+build/packaging | Maven
+build/packaging | Gradle 
+build/packaging | webPack
+build/packaging | Parcel
+Continuous integration | Jenkins
+Qualimetry | SonarQube
+Log Management System | ELK (Elastic Search/Logstash/Kibana)
+Container | Docker
+deployment tool | Puppet
+deployment tool | Chef
+deployment tool | Saltstack
 
-
-
-
-
-
+·       
 
 
 
